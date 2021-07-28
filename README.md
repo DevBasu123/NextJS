@@ -1,6 +1,5 @@
 
-### Event-Listing Application using NextJS.
-
+## Event-Listing Application using NextJS.
 
 > This work is done while learning NextJS.
 > 
